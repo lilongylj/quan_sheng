@@ -1,0 +1,110 @@
+	html, body, div, span, iframe,
+	h1, h2, h3, h4, h5, h6, p, 
+	em, img,strong,var,b, i,s,
+	dl, dt, dd, ol, ul, li,
+	form, label,input,select,textarea, 
+	table, caption, tbody, tfoot, thead, tr, th,td,button
+	{
+	    margin:0;
+	    padding:0;
+	    border:0;
+	    outline:0;
+	    font-size:100%;
+	    background:transparent;
+	  
+	}
+	html , body {
+		height: 100%;
+		width: 100%;
+		font-family: "Microsoft Yahei"
+	}
+	ul , ol{
+	    list-style:none;
+	}
+	a{
+		color:#000;
+		text-decoration: none;
+	}
+	a img{
+		border:none;
+	}
+	.fl{
+		float: left;
+	}
+	.fr{
+		float: right;
+	}
+	.clear:after{
+		content: "";
+		display: block;
+		clear: both;
+	}
+	.w100{
+		width: 100%;
+		min-width: 1366px;
+	}
+	iframe{
+		width: 100%;
+		min-width: 1366px;
+		height: 200px;	
+	}
+.headB{
+	/*height: 60px;*/
+	position: relative;
+	/*background: #767778;*/
+	/*line-height: 59px;*/
+}
+.headB p{
+	/*margin-left: 44px;*/
+	position: absolute;
+	left: 44px;
+	top: -44px;
+}
+.headB p a,.headB p span{
+	color: white;
+	font-size: 14px;
+	/*line-height: 18px;*/
+	font-family: "FZLTHJW GB1 0";
+}
+.url{
+	display: inline-block;
+	background: url(../img/icon.png) no-repeat;
+}
+/*bloc-- plan使用*/
+.i-left{
+	width: 15px;
+	height: 15px;
+	background-position: -80px -80px;
+}
+.s-right{
+	width: 15px;
+	height: 15px;
+	margin-left: 800px;
+	background-position: -80px -105px;
+}
+.h3-right{
+	font-size: 24px;
+	text-align: right;
+	margin-right: 70px;
+}
+.h3-right span{
+	font-size: 16px;
+	color: #747272;
+	font-weight: normal;
+	display: inline-block;
+	border-right: 3px #e6001e solid;
+	padding-right: 8px;
+	margin-right: 8px;
+}
+.h3-left{
+	width: 300px;
+	font-size: 24px;
+	padding-left: 12px;
+	border-left: 3px solid #e6001e;
+	margin-bottom: 30px;
+}
+.h3-left span{
+	font-size: 16px;
+	color: #747272;
+}
+/*bloc-- plan使用*/

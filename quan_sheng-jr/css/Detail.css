@@ -1,0 +1,55 @@
+.headT{
+	margin-bottom: -12px;
+}
+.content{
+	width: 1219px;
+	margin: 22px auto;
+	overflow: hidden;
+	text-align: center;
+}
+.content h2{
+	color: #434343;
+	font-size: 24px;
+	margin: 20px auto;
+}
+.content p{
+	font-size: 14px;
+	color: #9b9b9b;
+	text-indent: 24px;
+	text-align: left;
+}
+.content .p1{
+	color: #c9c9c9;
+	margin-left: 339px;
+}
+.content .p1 span{
+	margin-right: 30px;
+}
+.content .p2{
+	margin-top: 50px;
+}
+.person1{
+	margin: 30px auto 66px;
+}
+.person2{
+	margin: 40px auto;
+}
+.content h3{
+	font-size: 14px;
+	color: #202020;
+	margin-bottom: 20px;
+	text-align: left;
+}
+.content .p3{
+	margin: 20px 0 48px 0;
+}
+.content a{
+	display: block;
+	font-size: 12px;
+	line-height: 24px;
+	text-align: left;
+	color: #575757;
+}
+.content a:last-child{
+	margin-bottom: 26px;
+}

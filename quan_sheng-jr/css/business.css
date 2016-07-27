@@ -1,0 +1,145 @@
+.content{
+	width: 1358px;
+	margin: 37px auto;
+}
+.url{
+	display: inline-block;
+	background: url(../img/bus-i.png);
+}
+.content h3{
+	font-size: 22px;
+	color: #fff;
+	line-height: 36px;
+}
+.content h3 i,.content h3 b,.content h3 s{
+	width: 38px;
+	height: 37px;
+	margin: 0 8px;
+}
+.content h3 span{
+	width: 100px;
+	height: 38px;
+	display: inline-block;
+	padding:0 8px;
+	background: url(../img/bus.png);
+}
+.h-right{
+	text-align: right;	
+}
+.content div div>p:first-child{
+	font-size: 14px;
+	line-height: 23px;
+	color: #7d7d7d;
+	margin-top: 27px;
+}
+.content div div>p:nth-child(2){
+	font-size: 12px;
+	line-height: 17px;
+	color: #7d7d7d;
+	margin-top: 20px;
+}
+.content div div>p>span{
+	font-size: 28px;
+}
+.content button{
+	width: 74px;
+	height: 18px;
+	color: #9b9b9b;
+	font-size: 12px;
+	border: 1px solid #9b9b9b;
+	border-radius: 10px;
+	margin-top:40px;
+	cursor: pointer;
+}
+.contenta{
+	margin-bottom: 100px;
+}
+.contenta-R1{
+	width: 500px;
+}
+.content .contenta .contenta-R1 p.h-right{
+	font-size: 14px;
+	color: #636363;
+	margin-top: -8px;
+	margin-right: 200px
+	/*line-height: 36px;*/
+}
+.content .contenta .contenta-R1 p.h-right span{
+	font-size: 14px;
+	color: #636363;
+	/*line-height: 36px;*/
+}
+.contenta-R2{
+	width: 789px;
+	background: #fff;
+	height: 256px;
+	margin-top: -256px;
+	padding-left: 55px;
+}
+.contenta-R2 p{
+	width: 789px;
+}
+.contentb-L1{
+	width: 500px;
+}
+.contentb-L1 h3 span{
+	background: url(../img/bus01.png) no-repeat;
+}
+.contentb{
+	margin-bottom: 118px;
+}
+.contentb-L2{
+	width: 832px;
+	height: 256px;
+	background: #fff;
+	margin-top: -256px;
+}
+.contentb-L2 p{
+	width: 771px;
+}
+.i1{
+	background-position: -82px -22px;
+}
+.b1{
+	background-position: -147px -22px;
+}
+.s1{
+	background-position: -17px -22px;
+}
+.i2{
+	background-position: -82px -80px;
+}
+.b2{
+	background-position: -17px -80px;
+}
+.s2{
+	background-position: -147px -80px;
+}
+.i3{
+	background-position: -17px -132px;
+}
+.b3{
+	background-position: -82px -132px;
+}
+.s3{
+	background-position: -147px -132px;
+}
+.i4{
+	background-position: -17px -182px;
+}
+.b4{
+	background-position: -82px -182px;
+}
+.s4{
+	background-position: -147px -182px;
+}
+.i5{
+	background-position: -17px -243px;
+}
+.b5{
+	background-position: -82px -243px;
+}
+.s5{
+	background-position: -147px -243px;
+}
+

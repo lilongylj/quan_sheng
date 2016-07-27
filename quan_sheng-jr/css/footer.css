@@ -1,0 +1,43 @@
+.footer{
+	height: 164px;
+	border-top: 1px #dad7d7 solid;
+}
+.w1274{
+	width: 1274px;
+	margin: 0 auto;
+	height: inherit;
+}
+.footerL{
+	margin-top: 60px;
+}
+.footerL h1{
+	width: 236px;
+	border-right: 2px #b50000 solid;
+}
+.footerR{
+	margin-top: 50px;
+	width: 680px;
+	font-size: 14px;
+}
+.footerR dd{
+	text-align: right;
+}
+.footerR dd p{
+	margin-right: 15px;
+	line-height: 24px;
+}
+.footerR dd div{
+	margin-left: 125px;
+	overflow: hidden;
+}
+.footerR dd div ul{
+	margin-right: -1px;
+}
+.footerR dd ul li{
+	width: 88px;
+	height: 16px;
+	line-height: 16px;
+	border-right: 1px solid #999;
+	text-align: center;
+	margin: 5px 0;
+}
